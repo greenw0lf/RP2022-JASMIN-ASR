@@ -1,0 +1,2 @@
+/usr/bin/bash: local/chain/tuning/run_tdnn_blstm_1a.sh: No such file or directory
+srun: error: ewi2: task 0: Exited with exit code 127

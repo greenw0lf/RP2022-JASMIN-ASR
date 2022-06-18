@@ -1,0 +1,76 @@
+fn000050 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000050.wav -b 16 -t wav - remix 1 |
+fn000051 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000051.wav
+fn000052 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000052.wav -b 16 -t wav - remix 1 |
+fn000059 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000059.wav -b 16 -t wav - remix 1 |
+fn000060 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000060.wav
+fn000061 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000061.wav -b 16 -t wav - remix 1 |
+fn000062 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000062.wav
+fn000063 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000063.wav -b 16 -t wav - remix 1 |
+fn000064 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000064.wav
+fn000065 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000065.wav -b 16 -t wav - remix 1 |
+fn000066 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000066.wav
+fn000069 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000069.wav -b 16 -t wav - remix 1 |
+fn000070 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000070.wav
+fn000071 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000071.wav -b 16 -t wav - remix 1 |
+fn000073 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000073.wav
+fn000074 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000074.wav
+fn000077 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000077.wav -b 16 -t wav - remix 1 |
+fn000078 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000078.wav
+fn000081 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000081.wav -b 16 -t wav - remix 1 |
+fn000082 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000082.wav
+fn000086 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000086.wav -b 16 -t wav - remix 1 |
+fn000087 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000087.wav
+fn000088 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000088.wav -b 16 -t wav - remix 1 |
+fn000090 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000090.wav
+fn000091 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000091.wav -b 16 -t wav - remix 1 |
+fn000092 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000092.wav
+fn000093 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000093.wav -b 16 -t wav - remix 1 |
+fn000094 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000094.wav
+fn000095 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000095.wav -b 16 -t wav - remix 1 |
+fn000096 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000096.wav
+fn000097 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000097.wav -b 16 -t wav - remix 1 |
+fn000098 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000098.wav
+fn000099 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000099.wav -b 16 -t wav - remix 1 |
+fn000100 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000100.wav
+fn000103 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000103.wav -b 16 -t wav - remix 1 |
+fn000104 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000104.wav
+fn000105 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000105.wav -b 16 -t wav - remix 1 |
+fn000106 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000106.wav
+fn000107 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000107.wav -b 16 -t wav - remix 1 |
+fn000108 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000108.wav
+fn000109 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000109.wav -b 16 -t wav - remix 1 |
+fn000110 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000110.wav
+fn000111 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000111.wav -b 16 -t wav - remix 1 |
+fn000112 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000112.wav
+fn000113 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000113.wav -b 16 -t wav - remix 1 |
+fn000115 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000115.wav
+fn000380 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000380.wav -b 16 -t wav - remix 1 |
+fn000381 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000381.wav
+fn000383 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn000383.wav -b 16 -t wav - remix 1 |
+fn000384 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn000384.wav
+fn100130 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn100130.wav -b 16 -t wav - remix 1 |
+fn100131 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn100131.wav
+fn100133 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn100133.wav -b 16 -t wav - remix 1 |
+fn100135 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn100135.wav
+fn100137 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn100137.wav -b 16 -t wav - remix 1 |
+fn100138 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn100138.wav
+fn100140 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn100140.wav -b 16 -t wav - remix 1 |
+fn100141 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn100141.wav
+fn100230 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn100230.wav -b 16 -t wav - remix 1 |
+fn100231 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn100231.wav
+fn100233 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn100233.wav -b 16 -t wav - remix 1 |
+fn100234 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn100234.wav
+fn100239 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn100239.wav -b 16 -t wav - remix 1 |
+fn100240 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn100240.wav
+fn100243 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn100243.wav -b 16 -t wav - remix 1 |
+fn100244 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn100244.wav
+fn100246 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn100246.wav -b 16 -t wav - remix 1 |
+fn100247 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn100247.wav
+fn100249 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn100249.wav -b 16 -t wav - remix 1 |
+fn100250 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn100250.wav
+fn100256 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn100256.wav -b 16 -t wav - remix 1 |
+fn100257 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn100257.wav
+fn100259 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn100259.wav -b 16 -t wav - remix 1 |
+fn100260 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn100260.wav
+fn100265 sox -t wav /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-p/nl/fn100265.wav -b 16 -t wav - remix 1 |
+fn100266 /tudelft.net/staff-bulk/ewi/insy/SpeechLab/RP2022/JASMIN/Data/data/audio/wav/comp-q/nl/fn100266.wav
