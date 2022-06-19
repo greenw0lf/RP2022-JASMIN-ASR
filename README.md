@@ -23,7 +23,7 @@ Both of the scripts above have comments inside of them explaining the steps.
 - `train` contains the 4 files that were used for training, whereas `test` and its other variants contain the testing data. The variants are a subset of the test folder, with a focus on specific groups based on age, gender, or type of speech.
 - `local/data` contains information about speakers, as well as some files generated throughout the project only for the Transitional Dutch region. 
 
-A more detailed breakdown of these files is provided in another document.
+A more detailed breakdown of these files is provided in `data.md`.
 
 ## Inside the `vtlp_aug_scripts` folder
 - `aug_helpers.py`: Helper functions used for the main VTLP augmentation script.
