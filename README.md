@@ -1,6 +1,8 @@
 # RP2022-JASMIN-ASR
 This page contains the base files used throughout the project for training and testing the ASR models.
 
+The project mentioned is the CSE3000 Research Project course (Bachelor Thesis) of the Computer Science and Engineering Bachelor that I graduated from, from the Delft University of Technology.
+
 ## Explanation of files/folders
 - `4files.py`: This is the code used to augment the 4 files needed for training/testing any model.
 - `specaug.py`: The SpecAugment script used for generating perturbed audio files.
