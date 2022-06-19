@@ -51,3 +51,8 @@ A more detailed breakdown of these files is provided in `data.md`.
 15. Run `new_test.sh` to see the overall WER performance of your system. Ignore if you have errors about folders missing, as long as the first line displays the WER, then it is fine
 16. (OPTIONAL) Run `jasmin_run_test.sh` to test the subgroups of `test` created inside `data`
 17. (OPTIONAL) Run `new_test.sh` again to see the individual WERs obtained
+
+## Contact
+if you have any suggestions, feel free to create a PR with your changes.
+
+If you have any questions, open up an issue on the page. Disclaimer: the more time it will pass, the less able I will be to respond to questions as I will most likely forget details. I apologize for that :)
